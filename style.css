@@ -1,0 +1,22 @@
+.section1{
+    position: relative; 
+   background-color:   #304ffe;
+    visibility: visible;
+    transition: 0.1s ease-in-out;
+}
+.section1:hover{
+    opacity: 100;
+    background-color: #FBFBFB;
+    transition-delay: 0.1s;
+}
+.section2{
+    position: relative; 
+   background-color:   #fdd835;
+    visibility: visible;
+    transition: 0.1s ease-in-out;
+}
+.section2:hover{
+    opacity: 100;
+    background-color: #fff;
+    transition-delay: 0.1s;
+}
